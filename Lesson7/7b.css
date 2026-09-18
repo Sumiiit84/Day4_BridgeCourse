@@ -1,0 +1,6 @@
+.cat {
+  width: 300px;
+  height: 150px;
+  object-position: center;
+  object-fit: cover;
+}
